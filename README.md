@@ -1,5 +1,7 @@
 # React Native Challenge
 
+![Screenshot 2024-10-20 115619](https://github.com/user-attachments/assets/e94368d9-5a0d-46fa-af93-4d64c2e7adf8)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
